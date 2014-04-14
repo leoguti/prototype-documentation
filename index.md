@@ -37,8 +37,8 @@ If you want to translate this page in your language, you have multiple options:
 Then your page turns into a text editor, where you are able to modify the page source. The page is written in [markdown](http://daringfireball.net/projects/markdown/syntax), very easy to understand. 
 ![photo](images/screenshots/edit-2.jpg)
 You don't have to modify this code, but just copy and paste the whole text in your local text editor, then translate the textual parts in your language, without modifying the parenthesis and HTML parts. Save the text then mail it to us at [play@primo.io](mailto:play@primo.io)
-
 3. **advanced, full automation** This is slightly advanced, but nothing too hard, if you are not familiar with GitHub you have the chance to learn something new :) <br>
+
 If you are already familiar with git, you have to fork the repository, all the translations are located in the _pages folder. To translate the page, just copy it with the starting language ("english.md" for example) in the same folder, then change the file name with the final language (spanish.md) then translate it. Once finished, make a pull request to add your file to the folder, it will be automatically added to the menu.<br><br>
 The steps above, expanded:
 
@@ -47,7 +47,7 @@ The steps above, expanded:
     3. If it's the first time you use it, open it and input your GitHub login details
     4. Go to [this documentation repository](https://github.com/primo-io/prototype-documentation)
     5. Click on the "Fork" button in the top right corner, to fork this repository into your account.
-    6. Go to your giHub account, open the forked repository page and click on the "Clone in Desktop" button, on the right-hand sidebar. It will automatically open the GitHub application, asking where to save the local repository.
+    6. Go to your gitHub account, open the forked repository page and click on the "Clone in Desktop" button, on the right-hand sidebar. It will automatically open the GitHub application, asking where to save the local repository.
     7. After selecting a folder path in your computer, click on "clone"
     8. After downloading the files, navigate to your local folder where the repository has been downloaded.
     9. Open the _pages folder, where all the translations are located. Select the starting language ("english.md" for example), then copy the file and rename it to your destination language ("spanish.md" for example), in the same folder.
@@ -200,7 +200,6 @@ First of all, you have to glue parts 3 and 4 together, use the holes in the corn
 
 Then take the copper tape, cut 32 pieces of 70mm each and put them inside the rectangular holes in the part that you just glued, they should be at least 30mm wide on each side. Once you finished, you can now glue all the remaining top layers of the interface board, this is the correct order:
 
-Then take the copper tape, cut 32 pieces of 70mm each and put them inside the rectangular holes in the part that you just glued, they should be at least 30mm wide on each side. 
 
 ![copper connectors](images/illustrations/board-1.jpg)
 ![copper connectors](images/illustrations/board-2.jpg)
