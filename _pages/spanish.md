@@ -22,7 +22,7 @@ Puedes encontrar información adicional acerca del proyecto en el sitio [primo.i
 ##IMPORTANTE
 La documentación e instrucciones incluidas en este documento le permitirá producir un prototipo de primo como el mostrado en este video, el cual es diferente al de producción final. Sin embargo, liberaremos también la documentación necesaria para actualizaciones y nuevas versiones del set Primo, incluyendo archivos para el producto final, así como y cuando nosotros los hemos ensayado y probado. 
 
-##MORE IMPORTANT
+##MAS IMPORTANTE
 La licencia bajo la cual liberamos el set Primo le da la libertad de construir su propio prototipo. Sin embargo **No esta usted autorizado para venderlo como Primo**, bajo ninguna circunstancia. También, si usted hace un producto derivado del nuestro, debe usted citar el proyecto original (tal como nosotros hacemos con todas nuestras fuentes), además de usar la misma licencia: [CC by-nc-sa 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/). <br>
 Esta política no se justifica solo por proteger la propiedad intelectual, sino también para mantener el rastro del flujo de ideas. Como nosotros gastamos un montón de tiempo y recursos para mantener esta documentación libre y accesible, nosotros también lo animamos a "dar algo a cambio" y publicar sus derivados, resultados, sugerencias, insultos y elogios. Estaremos mas que felices en escuchar y responder sus feedbacks y de poner en el blog nuestro las cosas interesantes. 
 
